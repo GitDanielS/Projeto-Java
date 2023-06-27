@@ -1,2 +1,2 @@
 # Projeto-Java
-Esse projeto foi simulado um sistema de um banco que eu chamei de Banco do Amanhã,foi utilizado o NetBeans 12 com o jdk 8
+Esse projeto foi feito para simular um sistema de um banco com as funções de sacar, depositar e ver histórico da conta,foi utilizado o NetBeans 12 com o jdk 8 
