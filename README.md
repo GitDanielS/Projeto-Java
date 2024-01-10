@@ -1,6 +1,6 @@
 # Projeto Java - Sistema Bancário
 
-Este projeto foi desenvolvido para simular um sistema bancário com funcionalidades de saque, depósito e visualização do histórico da conta. Utiliza o NetBeans 12 com JDK 8 para o desenvolvimento. Para executar o projeto, siga as instruções abaixo:
+Este projeto foi desenvolvido para simular um sistema bancário com funcionalidades de saque, depósito e visualização do histórico da conta. Utilizei o NetBeans 12 com JDK 8 para o desenvolvimento. Para executar o projeto, siga as instruções abaixo:
 
 ## Instruções de Execução
 
